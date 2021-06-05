@@ -1,0 +1,16 @@
+.bottom-container{
+    padding:10px;
+    text-align: center;
+    color: black;
+
+}
+.footer-link{
+    color : black;
+    text-decoration: none;
+    padding: 20px ;
+    cursor: pointer;
+}
+.footer-link:hover{
+    color:bisque;
+
+}

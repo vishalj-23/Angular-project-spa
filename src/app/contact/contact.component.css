@@ -1,0 +1,24 @@
+.contact-me{
+    width: 40%;
+    margin: 40px auto 20px;
+
+    text-align: center;
+}
+.btn-mail{
+    text-decoration-line: none;
+    border: 2px solid white;
+    padding: 8px 5px;
+    font-size: 20px;
+    color: teal;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.contact{
+    background-color: gainsboro;
+    height: 25vh;
+    padding: 10px 0px;
+}
+.text-align{
+    text-align: center;
+}
